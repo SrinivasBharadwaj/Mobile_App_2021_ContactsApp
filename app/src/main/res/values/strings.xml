@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="edit_contact_label">Edit Contact</string>
+    <string name="name_label">Name:</string>
+    <string name="email_new_label">Email:</string>
+    <string name="phone_new_label">Phone:</string>
+    <string name="type_new_label">Type:</string>
+    <string name="update_neww_label">Update</string>
+    <string name="cancel_latest_label">Cancel</string>
+    <string name="new_contact_latest_label">New Contact</string>
+    <string name="enter_name_latest_label">Enter name</string>
+    <string name="name_latest_label">Name:</string>
+    <string name="email_latest_label">Email:</string>
+    <string name="enter_email_latest_label">Enter email</string>
+    <string name="phone_latest_label">Phone:</string>
+    <string name="enter_phone_number_latest_label">Enter phone number</string>
+    <string name="type_latest_label">Type:</string>
+    <string name="enter_type_latest_label">Enter type</string>
+    <string name="submit_latest_label">Submit</string>
+</resources>
